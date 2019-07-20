@@ -5,6 +5,7 @@
   hljs.registerLanguage('asciidoc', require('highlight.js/lib/languages/asciidoc'))
   hljs.registerLanguage('bash', require('highlight.js/lib/languages/bash'))
   hljs.registerLanguage('cpp', require('highlight.js/lib/languages/cpp'))
+  hljs.registerLanguage('clojure', require('highlight.js/lib/languages/clojure'))
   hljs.registerLanguage('cs', require('highlight.js/lib/languages/cs'))
   hljs.registerLanguage('dockerfile', require('highlight.js/lib/languages/dockerfile'))
   hljs.registerLanguage('go', require('highlight.js/lib/languages/go'))
