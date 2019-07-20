@@ -30,7 +30,7 @@ Other CSS rules for styling code blocks:
 .hljs-literal,
 .hljs-variable,
 .hljs-tag .hljs-attr {
-  color: #ae81ff;
+  color: #78bcf1;
 }
 
 .hljs-string,
@@ -58,4 +58,12 @@ Other CSS rules for styling code blocks:
 
 .hljs-strong {
   font-weight: var(--weight-medium);
+}
+
+.hljs-symbol {
+  color: #c399da;
+}
+
+.hljs-name {
+  color: #cc7832;
 }
