@@ -277,6 +277,11 @@ a.navbar-item.has-dropdown::after,
   padding-left: 0.5rem;
 }
 
+.navbar-end {
+  align-items: center;
+  display: flex;
+}
+
 .reveal-search-input button.search::before {
   background: url(../img/search-close.svg) 50% 50% no-repeat;
 }
