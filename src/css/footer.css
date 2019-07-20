@@ -186,7 +186,6 @@
 .footer-terms a {
   font-weight: var(--weight-light);
   display: inline-block;
-  margin: 0.625rem 0.3125rem;
 }
 
 @media screen and (min-width: 769px) {
@@ -213,7 +212,6 @@
 
   .footer-terms a {
     display: inline-block;
-    margin-right: 1rem;
   }
 }
 
