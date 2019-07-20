@@ -100,8 +100,11 @@
 }
 
 .doc code {
-  color: var(--color-text);
+  background: #565656;
+  border-radius: 4px;
+  color: #f3f3f3;
   font-weight: var(--weight-medium);
+  padding: 0 3px;
 }
 
 .doc pre code {
