@@ -51,6 +51,10 @@
   padding: 0;
 }
 
+.navbar-icon-big {
+  font-size: 40px;
+}
+
 .navbar-burger span {
   display: block;
   width: inherit;
