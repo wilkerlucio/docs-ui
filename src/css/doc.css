@@ -100,10 +100,8 @@
 }
 
 .doc code {
-  background: #565656;
+  background: rgba(28, 33, 38, 0.15);
   border-radius: 4px;
-  color: #f3f3f3;
-  font-weight: var(--weight-medium);
   padding: 0 3px;
 }
 
